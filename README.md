@@ -146,7 +146,7 @@ Contributions are welcome! Areas for improvement:
 
 ## License
 
-This project is open source.
+This project is open source GPL-3.0 licensed.
 
 ## Acknowledgments
 
