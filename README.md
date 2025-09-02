@@ -146,7 +146,7 @@ Contributions are welcome! Areas for improvement:
 
 ## License
 
-This project is open source. Please credit original authors when using or modifying.
+This project is open source.
 
 ## Acknowledgments
 
@@ -157,12 +157,3 @@ This project is open source. Please credit original authors when using or modify
 ## Demo Video
 
 [Link to YouTube demonstration video showing real-time thermal imaging and touch interface]
-
-## Images
-
-[Include photos/screenshots of:]
-- Complete hardware setup
-- Thermal images with different color palettes
-- Touch interface controls
-- Saved thermal data examples
-- Python post-processing results
